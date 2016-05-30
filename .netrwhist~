@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Applications/Adobe Illustrator CC 2015/Adobe Illustrator.app'
+let g:netrw_dirhist_2='/Users/liyezhou/Google Drive/Mac Sync/E-Club Management/Working Log'
+let g:netrw_dirhist_3='/'
+let g:netrw_dirhist_4='/Users/liyezhou/Documents/Tmp'
+let g:netrw_dirhist_5='/Users/liyezhou/Desktop/GP'
